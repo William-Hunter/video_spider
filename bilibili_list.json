@@ -1,0 +1,178 @@
+{
+  "小黛晨读": {
+    "uid": "1556651916",
+    "_type": "mp4",
+    "last_update": "2023-11-16 14:11:02",
+    "info": {
+      "full_url": "https://api.bilibili.com/x/space/wbi/arc/search?mid=1556651916&ps=30&tid=0&pn=1&keyword=&order=pubdate&platform=web&web_location=1550101&order_avoided=true&w_rid=c25339e1240926f6f78d911eea5290ce&wts=1696348131",
+      "refresh": false
+    },
+    "folder": "News",
+    "disable": false
+  },
+  "马督工": {
+    "uid": "316568752",
+    "_type": "mp4",
+    "last_update": "2023-10-23 22:11:21",
+    "info": {
+      "full_url": "https://api.bilibili.com/x/space/wbi/arc/search?mid=316568752&ps=30&tid=0&pn=1&keyword=&order=pubdate&platform=web&web_location=1550101&order_avoided=true&w_rid=a586db6ecbbe0c1cd0febdca47198b25&wts=1696348162",
+      "refresh": false
+    },
+    "folder": "News",
+    "disable": true
+  },
+  "搞钱兔": {
+    "uid": "332770544",
+    "_type": "mp4",
+    "last_update": "2023-11-16 14:11:22",
+    "info": {
+      "full_url": "https://api.bilibili.com/x/space/wbi/arc/search?mid=332770544&ps=30&tid=0&pn=1&keyword=&order=pubdate&platform=web&web_location=1550101&order_avoided=true&w_rid=9a4d74de48da0470c890848699647743&wts=1696347854",
+      "refresh": false
+    },
+    "folder": "",
+    "disable": false
+  },
+  "小Lin说": {
+    "uid": "520819684",
+    "_type": "mp4",
+    "last_update": "2023-11-16 14:11:42",
+    "info": {
+      "full_url": "https://api.bilibili.com/x/space/wbi/arc/search?mid=520819684&ps=30&tid=0&pn=1&keyword=&order=pubdate&platform=web&web_location=1550101&order_avoided=true&w_rid=3ac2fa910bd58059c061adfcd331345f&wts=1696348260",
+      "refresh": false
+    },
+    "folder": "",
+    "disable": false
+  },
+  "不姓白了": {
+    "uid": "22836703",
+    "_type": "mp4",
+    "last_update": "2023-10-23 22:12:23",
+    "info": {
+      "full_url": "https://api.bilibili.com/x/space/wbi/arc/search?mid=22836703&ps=30&tid=0&pn=1&keyword=&order=pubdate&platform=web&web_location=1550101&order_avoided=true&w_rid=dfddaeeae7a0dd70e01bde0c6acf3090&wts=1696347882",
+      "refresh": false
+    },
+    "folder": "",
+    "disable": true
+  },
+  "python_honor": {
+    "uid": "327698535",
+    "_type": "mp4",
+    "last_update": "2023-11-16 14:12:03",
+    "info": {
+      "full_url": "https://api.bilibili.com/x/space/wbi/arc/search?mid=327698535&ps=30&tid=0&pn=1&keyword=&order=pubdate&platform=web&web_location=1550101&order_avoided=true&w_rid=442bc98de4c075011e4ea096598a00dc&wts=1696347916",
+      "refresh": false
+    },
+    "folder": "",
+    "disable": false
+  },
+  "宁皓网": {
+    "uid": "502610295",
+    "_type": "mp4",
+    "last_update": "2023-11-16 14:12:23",
+    "info": {
+      "full_url": "https://api.bilibili.com/x/space/wbi/arc/search?mid=502610295&ps=30&tid=0&pn=1&keyword=&order=pubdate&platform=web&web_location=1550101&order_avoided=true&w_rid=c88c2ad2c80de915a70794a4857fbb2f&wts=1696347951",
+      "refresh": false
+    },
+    "folder": "",
+    "disable": false
+  },
+  "吸奇侠": {
+    "uid": "414350632",
+    "_type": "mp4",
+    "last_update": "2023-11-16 14:12:43",
+    "info": {
+      "full_url": "https://api.bilibili.com/x/space/wbi/arc/search?mid=414350632&ps=30&tid=0&pn=1&keyword=&order=pubdate&platform=web&web_location=1550101&order_avoided=true&w_rid=81022989d57221281246e86845411721&wts=1696347987",
+      "refresh": false
+    },
+    "folder": "",
+    "disable": false
+  },
+  "路肖南Lester": {
+    "uid": "267674983",
+    "_type": "mp4",
+    "last_update": "2023-11-16 14:13:04",
+    "info": {
+      "full_url": "https://api.bilibili.com/x/space/wbi/arc/search?mid=267674983&ps=30&tid=0&pn=1&keyword=&order=pubdate&platform=web&web_location=1550101&order_avoided=true&w_rid=94b9845621f6f56b94384bb467754ba4&wts=1696347574",
+      "refresh": false
+    },
+    "folder": "",
+    "disable": false
+  },
+  "英语兔": {
+    "uid": "483162496",
+    "_type": "mp4",
+    "last_update": "2023-11-16 14:13:24",
+    "info": {
+      "full_url": "https://api.bilibili.com/x/space/wbi/arc/search?mid=483162496&ps=30&tid=0&pn=1&keyword=&order=pubdate&platform=web&web_location=1550101&order_avoided=true&w_rid=0de85bc660e830a02da099a27470c42c&wts=1696348040",
+      "refresh": false
+    },
+    "folder": "",
+    "disable": false
+  },
+  "CRAZY262": {
+    "uid": "324879",
+    "_type": "mp4",
+    "last_update": "2023-10-07 09:13:09",
+    "info": {
+      "full_url": "https://api.bilibili.com/x/space/wbi/arc/search?mid=324879&ps=30&tid=0&pn=1&keyword=&order=pubdate&platform=web&web_location=1550101&order_avoided=true&w_rid=561d8c2360ac4ed82f694e34224cb236&wts=1696348072",
+      "refresh": false
+    },
+    "folder": "",
+    "disable": true
+  },
+  "森纳映画": {
+    "uid": "1724598",
+    "_type": "mp4",
+    "last_update": "2023-10-07 09:14:18",
+    "info": {
+      "full_url": "https://api.bilibili.com/x/space/wbi/arc/search?mid=1724598&ps=30&tid=0&pn=1&keyword=&order=pubdate&platform=web&web_location=1550101&order_avoided=true&w_rid=ff814b94f8a2c28f551c4e4a913c8fe2&wts=1696348198",
+      "refresh": false
+    },
+    "folder": "",
+    "disable": true
+  },
+  "当下频道": {
+    "uid": "32360194",
+    "_type": "mp4",
+    "last_update": "2023-09-28 16:13:09",
+    "info": {
+      "full_url": "https://api.bilibili.com/x/space/wbi/arc/search?mid=32360194&ps=30&tid=0&pn=1&keyword=&order=pubdate&platform=web&web_location=1550101&order_avoided=true&w_rid=682f3bd379a0eb5eea5d7b614298e1e3&wts=1694404782",
+      "refresh": false
+    },
+    "folder": "",
+    "disable": true
+  },
+  "丰言疯话": {
+    "uid": "264869770",
+    "_type": "mp4",
+    "last_update": "2023-09-28 16:11:55",
+    "info": {
+      "full_url": "https://api.bilibili.com/x/space/wbi/arc/search?mid=264869770&ps=30&tid=0&special_type=&pn=1&keyword=&order=pubdate&platform=web&web_location=1550101&order_avoided=true&w_rid=802e27d677758b39c3ea9e8c89e33ed4&wts=1693921257",
+      "refresh": false
+    },
+    "folder": "",
+    "disable": true
+  },
+  "忍者猫ninjacat": {
+    "uid": "835511",
+    "_type": "mp4",
+    "last_update": "2023-09-28 16:11:33",
+    "info": {
+      "full_url": "https://api.bilibili.com/x/space/wbi/arc/search?mid=835511&ps=30&tid=0&special_type=&pn=1&keyword=&order=pubdate&platform=web&web_location=1550101&order_avoided=true&w_rid=7fbf19e1cfd9e057064e85fd2ba10543&wts=1693920866",
+      "refresh": false
+    },
+    "folder": "",
+    "disable": true
+  },
+  "": {
+    "uid": "",
+    "_type": "mp4",
+    "last_update": "2023-09-05 20:11:02",
+    "info": {
+      "full_url": "",
+      "refresh": false
+    },
+    "folder": "",
+    "disable": false
+  }
+}
