@@ -23,7 +23,7 @@ def postList(url):
         ,"Dnt":"1"
         ,"Sec-Ch-Ua-Platform":"\"Windows\""
         ,"Cookie":"buvid3=9B7B3A65-EBCB-3512-C5DB-FE9C0D79953148828infoc; blackside_state=0; LIVE_BUVID=AUTO8616305842136855; i-wanna-go-back=-1; buvid_fp_plain=undefined; buvid4=BBC573A6-FFFF-01DE-34D5-0A58B09748BE07073-022012613-PV2QRDcpwMmxOM3/YhwP5A%3D%3D; rpdid=|(J|YukYu))u0J'uYYmJlk~JJ; b_ut=5; home_feed_column=4; hit-new-style-dyn=1; CURRENT_PID=acbe5b90-cd69-11ed-8c76-613c48d24333; nostalgia_conf=-1; hit-dyn-v2=1; CURRENT_FNVAL=4048; FEED_LIVE_VERSION=V8; header_theme_version=CLOSE; browser_resolution=1010-692; DedeUserID=44827547; DedeUserID__ckMd5=7a9862031f0f805a; fingerprint=0bc9c2714128b1cf5e9a4a40336c5e5d; PVID=1; _uuid=C54149110-24AA-C38C-5FF5-883BBB3542AD40105infoc; buvid_fp=0bc9c2714128b1cf5e9a4a40336c5e5d; b_nut=100; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTY2MDY5MDgsImlhdCI6MTY5NjM0NzY0OCwicGx0IjotMX0.grCC6MnZ-atOJJMOP8EZ0SAqn0QJPrQT4GsG84az364; bili_ticket_expires=1696606848; SESSDATA=f49e6c29%2C1711899731%2Cbdf30%2Aa1CjCugp2op9Jw0XCn8IGsRLMd_eiySps77gkdRLTFURHkkUQzpezl_88LsFc_H03bK3kSVmNwb2ZHNl9zemNJZGRwd2htM0dDTlluSHl0RzFWZjNmYVFDYWpfVkFWb0hTeXJWWUFlZ2RoNjltNGVZOGhTMU9QUmlrdGtPMjFIa1BTNE5uTkhBTkRnIIEC; bili_jct=558e12885b1101c8280002efcbdadd08; sid=6odipx96; b_lsid=3FFA29CC_18AF8785F0E; bsource=search_google; bp_video_offset_44827547=848264467707854887"
-        ,"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
+        ,"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
         }
 
     response = requests.get(url, headers=HEADERS)
@@ -118,6 +118,10 @@ def loopBB(user_list,check_type,testMode):
         user_list[user_name] = user
 
         time.sleep(20)
+
+        now = util.stamp2date(time.time())
+        print(now)
+
 
 if __name__ == "__main__":
     # repeat_time = 8

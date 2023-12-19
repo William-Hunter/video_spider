@@ -8,7 +8,6 @@ import youtube
 import sys
 import util
 
-
 def loopYT(user_list,check_type):
     for user_name in user_list:
         if user_name is None or ""==user_name:

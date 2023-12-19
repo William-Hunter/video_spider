@@ -2,6 +2,7 @@
 # -*- coding: UTF-8 -*-
 
 import json
+import time
 
 def readJson(JSON_PATH):
     f = open(JSON_PATH, 'r', encoding='UTF-8')
