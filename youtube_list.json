@@ -2,9 +2,9 @@
   "MoneyXYZ": {
     "uid": "UCh4QrR5V6reIojGpRqkTbYw",
     "_type": "mp4",
-    "last_update": "2023-12-18 22:12:02",
+    "last_update": "2024-01-21 19:15:08",
     "check": "weekly",
-    "folder": "Finance",
+    "folder": "Invest",
     "last5download": [
       "ChatGPT给的机会, 你能抓住吗?",
       "投资者到底要不要&quot;和Fed作对”?",
@@ -44,15 +44,20 @@
       "閱讀革命: 用Readwise reader翻倍知識獲取效率",
       "三十萬粉絲YouTuber的閱讀神器: Readwise Reader",
       "徹底改變我知識獲取方式的閱讀神器: Readwise Reader",
-      "《Elon Musk傳》裡三個重要的人生課程"
+      "《Elon Musk傳》裡三個重要的人生課程",
+      "2023年終投資總結: 4個教訓, 5本好書",
+      "堅持5點起床『第二年』,我有了三個新的感悟! (歡迎加入5-am club!免費教程,Notion模板,PDF模板)",
+      "堅持5點起床『第二年』,我有了三個新感悟! (歡迎加入5-am club!免費教程,Notion模板,PDF模板)",
+      "堅持5點起床『第二年』,我都干了點啥？(歡迎加入5-am club!免費教程,Notion模板,PDF模板)",
+      "什麼時候賣股票?聊聊我的經歷和三個思維模型"
     ]
   },
   "狼爸爸的工作室": {
     "uid": "UC2dWZP6pgyoWZljdkP2yhEw",
     "_type": "mp4",
-    "last_update": "2023-12-18 12:08:02",
+    "last_update": "2024-01-21 12:08:02",
     "check": "monthly",
-    "folder": "Finance",
+    "folder": "Invest",
     "last5download": [
       "《小人国VS巨人国的货币》汇率是由什么决定的？为什么会变？变了又代表什么？如何操纵汇率？为什么要操纵汇率？",
       "走吗？一起去外汇市场看看",
@@ -64,7 +69,7 @@
   "王小二": {
     "uid": "UCMp4dDdf8gDNqI7_OdiP6XQ",
     "_type": "mp4",
-    "last_update": "2023-12-18 22:12:03",
+    "last_update": "2024-01-21 19:15:16",
     "check": "weekly",
     "folder": "Forex",
     "last5download": [
@@ -87,15 +92,16 @@
       "外汇交易启示录，唯有热爱可抵岁月漫长！外汇交易系统 / 外汇交易常见错误有哪些？Forex Trading",
       "全网首发！华美银行本土账户（非Velo）视频见证开户教程，无需ITIN，无需找中介，免费开户",
       "全网首发！华美银行本土账户（非Velo）视频见证开户教程，无需ITIN，无需找中介，免费开户 East West Bank",
-      "喜提汇丰全球关户。原来你是这样的汇丰！一地关户，全球关户！HSBC SG 关户，HSBC US 关户"
+      "喜提汇丰全球关户。原来你是这样的汇丰！一地关户，全球关户！HSBC SG 关户，HSBC US 关户",
+      "喜提汇丰银行全球关户。原来你是这样的汇丰！一地关户，全球关户！HSBC SG 关户，HSBC US 关户"
     ]
   },
   "后山客漫漫谈": {
     "uid": "UCzgbY1fgJjL_VGB4BxzjGww",
     "_type": "mp4",
-    "last_update": "2023-12-18 12:08:03",
+    "last_update": "2024-01-21 12:08:02",
     "check": "monthly",
-    "folder": "Finance",
+    "folder": "Invest",
     "last5download": [
       "无论美联储加不加息，加密市场都要迎来小阳春（时事篇045）#加密货币 #区块链 #btc",
       "Filecoin上方全是套牢者，能走出独立行情么？(时事篇044)#区块链 #加密货币 #web3 #filecoin",
@@ -107,7 +113,7 @@
   "Work_Andy": {
     "uid": "UCht-o_1CynGbRWdjfHmUdvg",
     "_type": "mp4",
-    "last_update": "2023-12-18 22:12:03",
+    "last_update": "2024-01-21 17:15:03",
     "check": "weekly",
     "folder": "Ladder",
     "last5download": [
@@ -128,13 +134,22 @@
       "2023最新高端机场推荐：青柠Lime-------高峰期4k秒开，流媒体解锁，解锁ChatGPT，全中转机场+IPLC",
       "私有化部署Pandora Next 项目：给你一个顺滑的Chat GPT 体验，部署完成后无需翻墙即可使用，超详细部署教程，使用Access Token 登录即可",
       "2023年永久免费高速节点搭建教程：晚高峰4k视频秒开 ；worker-vless 节点搭建；使用优选IP、优选域名",
-      "【GPT4.0充值教程】: GPT4 plus无需排队等待, FOMEPay快速开通！！！！"
+      "【GPT4.0充值教程】: GPT4 plus无需排队等待, FOMEPay快速开通！！！！",
+      "一分钟部署谷歌 Gemini ，使用自己的API Key ，部署好后，无需翻墙即可使用！！",
+      "2024最新永久免费翻墙节点：适合小白直接使用，也可以提取节点，放入v2ray中使用！！4k视频高速流畅！！免费解锁流媒体和ChatGPT！！免费VPN！！免费翻墙",
+      "2024最新永久免费翻墙节点：4k视频高速流畅！！免费解锁流媒体和ChatGPT！！免费VPN！！免费翻墙|| 适合小白直接使用，也可以提取节点，放入v2ray中使用！！",
+      "2024免费域名申请教程：ClouDNS，免费二级域名申请，50万次请求，邮件转发！！",
+      "IP2World：你的最佳住宅IP选择！支持解锁流媒体、chatgpt、paypal、跨境电商等！直接支持手机端、移动端使用住宅IP！",
+      "2024年节点搭建教程：高安全性的Xray - Reality协议！！消除服务端TLS指纹特征！！无须域名和证书！！一次搭建，长久稳定使用！！高速科学上网！！",
+      "超便宜VPS--DCI 节点搭建教程：0.125$/月，充1$送1$，12元人民币一年的高性价比VPS，可使用甲骨文云机器，解锁ChatGPT、流媒体，秒开4K视频，高速科学上网",
+      "超便宜VPS--DCI 节点搭建教程：0.125$/月，12元人民币一年的高性价比VPS，可使用甲骨文云机器，解锁ChatGPT、流媒体，秒开4K视频，高速科学上网",
+      "2024免费搭建科学上网节点：利用CortexNodes搭建英国节点，无需vps，无需域名，解锁ChatGPT和流媒体！！搭配优选域名，1080P视频流畅播放！！"
     ]
   },
   "科技小露": {
     "uid": "UCM2DUcnTAgSGgTLNrlwMjVQ",
     "_type": "mp4",
-    "last_update": "2023-12-18 22:12:03",
+    "last_update": "2024-01-21 19:15:26",
     "check": "weekly",
     "folder": "Ladder",
     "last5download": [
@@ -171,13 +186,16 @@
       "【2023最新】注册美区Apple ID，无需信用卡、不用翻墙注册美国 苹果ID，大陆注册美国 apple id 方法，一次注册100% 成功",
       "【2023最新】注册美区Apple ID，无需信用卡、不用翻墙注册美国 苹果ID，大陆注册美国 apple id 方法，一次注册100% 成功，apple id 更改国家",
       "【2023苹果 id 充值礼品卡】无需信用卡！支付宝1分钟搞定！apple id 美区充值，app store 美国账号储值，Google Play、Spotify、Hulu，ChatGPT 礼品卡",
-      "iphone苹果手机翻墙，小火箭Shadowrocket翻墙方法：4K全中转机场，解锁奈飞、HBO、Disney+、ChatGPT等流媒体，手机/电脑全平台 科学上网必备梯子VPN"
+      "iphone苹果手机翻墙，小火箭Shadowrocket翻墙方法：4K全中转机场，解锁奈飞、HBO、Disney+、ChatGPT等流媒体，手机/电脑全平台 科学上网必备梯子VPN",
+      "V2ray 翻墙看Youtube方法：4K中转机场，低至4元/月1024GB，解锁流媒体奈飞、ChatGPT，稳定运营不跑路，支持Win+mac+安卓+IOS 科学上网必备梯子VPN",
+      "【苹果 id 充值礼品卡】无需信用卡！支付宝1分钟搞定！apple id 美区充值，app store 美国账号储值，Google Play、Spotify、Hulu，ChatGPT 礼品卡",
+      "【最新】注册美区Apple ID，无需信用卡、不用翻墙注册美国 苹果ID，大陆注册美国 apple id 方法，一次注册100% 成功，apple id 更改国家"
     ]
   },
   "新知": {
     "uid": "UChoR3_5ZTj3TS12ub1GHw3Q",
     "_type": "mp4",
-    "last_update": "2023-12-18 22:12:04",
+    "last_update": "2024-01-21 19:15:32",
     "check": "weekly",
     "folder": "Ladder",
     "last5download": [
@@ -201,13 +219,23 @@
       "抖音AI颠覆更新，免魔法 无限生图 语音对话，GPT最强平替",
       "youtube赚钱2024音乐视频，无需露脸，AI工具简单10分钟制作视频",
       "2024大厂免费VPN推荐，可用chat GPT世界前三强,无限流量支持更改国家",
-      "Gemini Pro免费API开放，bard免费调用Gemini Pro"
+      "Gemini Pro免费API开放，bard免费调用Gemini Pro",
+      "2024最新 币安注册提现出金充值教程，预防封卡安全交易流程",
+      "埃隆·马斯克（Elon Musks）令人震惊的 AI 人工智能预测",
+      "付费VPN，避坑 评测 第一弹：surfshark",
+      "以图搜片子，人名，以姿势搜视频，搜你所想 这个视频就够了",
+      "2024最新翻墙方式，永久免费VPN 永不失联！",
+      "苹果手机翻墙方法，iOS永不失联shadowrocket小火箭使用教程，一元机场",
+      "2024最新 美区Apple ID注册充值100%成功方法，旧号改美区，无需科学上网",
+      "2024兼职副业在家赚美金，出售AI图片在fiverr销售并赚取$$$",
+      "翻墙后可以看什么？资深老司机告诉你全球都在用什么APP？ | 翻墙后做什么 | 翻墙后APP |",
+      "2024最新翻墙回国VPN推荐，三款速度快又好用！"
     ]
   },
   "官场": {
     "uid": "UCSH0soR23FQsOBGigyRdg-g",
     "_type": "mp4",
-    "last_update": "2023-12-18 22:12:04",
+    "last_update": "2024-01-21 17:15:04",
     "check": "weekly",
     "folder": "Corruptor",
     "last5download": [
@@ -225,7 +253,10 @@
       "陈吉宁怎么样  他能上位吗  他有机会登顶吗",
       "总书记语音重制版 :) 领导干部工作饮料 - 贵州茅台酒",
       "薄熙来情书 :)  熙来语音  梦回1975",
-      "一代传奇的上半场  北京青年薄熙来  跌宕起伏的人生前35年"
+      "一代传奇的上半场  北京青年薄熙来  跌宕起伏的人生前35年",
+      "听床师们力推的接班人  赵一德",
+      "薄熙来空降金县  太子党教育老干部  官场霸总薄熙来",
+      "他可能是那年 全中国最好的市长  The best mayor in China in the 1990s"
     ]
   },
   "华尔街见闻": {
