@@ -12,7 +12,7 @@ from concurrent.futures import ThreadPoolExecutor
 executor = ThreadPoolExecutor(10)
 
 
-cookie=open("./bilibili_cookie.txt").read()
+cookie=open("/opt/workspace/video_spider/bilibili_cookie.txt").read()
 
 def postList(url):
     global cookie
@@ -30,7 +30,7 @@ def postList(url):
         ,"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
     }
 
-    print("cookie:",cookie)
+#    print("cookie:",cookie)
     response = requests.get(url, headers=HEADERS)
     if response.status_code == 200:
         response = json.loads(response.text)
